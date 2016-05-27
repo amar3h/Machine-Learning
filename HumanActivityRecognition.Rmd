@@ -1,3 +1,4 @@
+<!-- rmarkdown v1 -->
 ---
 title: "Human Activity Recognition"
 author: "Andrew Marsh"
